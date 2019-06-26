@@ -1,0 +1,20 @@
+{
+  "name": "test-bower-install-format-nix",
+  "authors": [
+    "justinwoo <moomoowoo@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "purescript-format-nix": "^0.3.0"
+  }
+}

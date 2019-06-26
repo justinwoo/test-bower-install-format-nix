@@ -1,0 +1,32 @@
+{
+  "name": "purescript-motsunabe",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/justinwoo/purescript-motsunabe.git"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-strings": "^4.0.1",
+    "purescript-lists": "^5.4.0"
+  },
+  "devDependencies": {
+    "purescript-assert": "^4.1.0"
+  },
+  "homepage": "https://github.com/justinwoo/purescript-motsunabe",
+  "version": "2.0.0",
+  "_release": "2.0.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v2.0.0",
+    "commit": "9f1781d1bca2c2c4952933dc5cbdbee3ef13b90c"
+  },
+  "_source": "https://github.com/justinwoo/purescript-motsunabe.git",
+  "_target": "^2.0.0",
+  "_originalSource": "purescript-motsunabe"
+}

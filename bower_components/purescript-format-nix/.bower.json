@@ -1,0 +1,37 @@
+{
+  "name": "purescript-format-nix",
+  "license": "MIT",
+  "homepage": "https://github.com/justinwoo/format-nix",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/justinwoo/format-nix.git"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-generics-rep": "^6.1.1",
+    "purescript-motsunabe": "^2.0.0",
+    "purescript-prelude": "^4.1.1"
+  },
+  "devDependencies": {
+    "purescript-aff": "^5.1.1",
+    "purescript-console": "^4.2.0",
+    "purescript-debug": "^4.0.0",
+    "purescript-node-fs-aff": "^6.0.0"
+  },
+  "version": "0.3.0",
+  "_release": "0.3.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.3.0",
+    "commit": "db7994e05bfe1585e9aff7f3d75beb9355fbfd89"
+  },
+  "_source": "https://github.com/justinwoo/format-nix.git",
+  "_target": "^0.3.0",
+  "_originalSource": "purescript-format-nix",
+  "_direct": true
+}
